@@ -1,0 +1,72 @@
+{
+  "-Nh-U4IMiV-ajqEXcFjI": {
+    "firebaseKey": "-Nh-U4IMiV-ajqEXcFjI",
+    "image": "http://dummyimage.com/244x100.png/cc0000/ffffff",
+    "name": "Mark Spitz",
+    "role": "breaststroke",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4INLC6ilgh0t-_r": {
+    "firebaseKey": "-Nh-U4INLC6ilgh0t-_r",
+    "image": "http://dummyimage.com/182x100.png/cc0000/ffffff",
+    "name": "Missy Franklin",
+    "role": "medley",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4INLC6ilgh0t-_s": {
+    "firebaseKey": "-Nh-U4INLC6ilgh0t-_s",
+    "image": "http://dummyimage.com/104x100.png/ff4444/ffffff",
+    "name": "Ian Thorpe",
+    "role": "freestyle",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4IONXuaVm4DN52N": {
+    "firebaseKey": "-Nh-U4IONXuaVm4DN52N",
+    "image": "http://dummyimage.com/190x100.png/5fa2dd/ffffff",
+    "name": "Mark Spitz",
+    "role": "freestyle",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4IONXuaVm4DN52O": {
+    "firebaseKey": "-Nh-U4IONXuaVm4DN52O",
+    "image": "http://dummyimage.com/112x100.png/dddddd/000000",
+    "name": "Missy Franklin",
+    "role": "breaststroke",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4IONXuaVm4DN52P": {
+    "firebaseKey": "-Nh-U4IONXuaVm4DN52P",
+    "image": "http://dummyimage.com/208x100.png/cc0000/ffffff",
+    "name": "Michael Phelps",
+    "role": "breaststroke",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4IPfSzBeu9bdr8-": {
+    "firebaseKey": "-Nh-U4IPfSzBeu9bdr8-",
+    "image": "http://dummyimage.com/117x100.png/cc0000/ffffff",
+    "name": "Mark Spitz",
+    "role": "breaststroke",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4IPfSzBeu9bdr80": {
+    "firebaseKey": "-Nh-U4IPfSzBeu9bdr80",
+    "image": "http://dummyimage.com/249x100.png/dddddd/000000",
+    "name": "Katie Ledecky",
+    "role": "breaststroke",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4IQ_3-7dQ1ki9Ep": {
+    "firebaseKey": "-Nh-U4IQ_3-7dQ1ki9Ep",
+    "image": "http://dummyimage.com/153x100.png/cc0000/ffffff",
+    "name": "Katie Ledecky",
+    "role": "backstroke",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  },
+  "-Nh-U4IQ_3-7dQ1ki9Eq": {
+    "firebaseKey": "-Nh-U4IQ_3-7dQ1ki9Eq",
+    "image": "http://dummyimage.com/167x100.png/dddddd/000000",
+    "name": "Ian Thorpe",
+    "role": "medley",
+    "uid": "W8BwtLOTFBYZhjSdyds8svldENJ2"
+  }
+}
