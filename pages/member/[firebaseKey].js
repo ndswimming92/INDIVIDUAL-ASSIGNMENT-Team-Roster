@@ -25,8 +25,8 @@ export default function ViewMember() {
           <img src={memberDetails.image} alt={memberDetails.name} style={{ width: '300px' }} />
         </div>
         <div className="text-white ms-5 details">
-          Team Member Name: <a href={`mailto:${memberDetails.authorObject?.name}`}>{memberDetails.authorObject?.name}</a>
-          <p>{memberDetails.role || ''}</p>
+          <h5>Name: {memberDetails.name || ''}</h5>
+          <h5>Favorite Stroke: {memberDetails.role || ''}</h5>
           <br />
         </div>
         <br />

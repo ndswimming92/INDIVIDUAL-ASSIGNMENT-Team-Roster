@@ -32,7 +32,7 @@ function MemberForm({ obj }) {
     e.preventDefault();
 
     if (obj.firebaseKey) {
-      updateMember(formInput).then(() => router.push(`/member/${obj.firebaseKey}`));
+      updateMember(formInput).then(() => router.push('/members'));
     } else {
       const payload = { ...formInput, uid: user.uid };
       createMember(payload).then(({ name }) => {
@@ -49,7 +49,8 @@ function MemberForm({ obj }) {
     <>
       <Form onSubmit={handleSubmit}>
         <Form.Group className="mb-3" controlId="formBasicName">
-          <Form.Label>Member Name</Form.Label>
+          <h1>Add Team Member</h1>
+          <Form.Label>Team Member Name</Form.Label>
           <Form.Control
             type="text"
             placeholder="Enter Team Member Name"
@@ -61,7 +62,7 @@ function MemberForm({ obj }) {
         </Form.Group>
 
         <Form.Group className="mb-3" controlId="formBasicRole">
-          <Form.Label> Team Member Role</Form.Label>
+          <Form.Label>Team Member Role</Form.Label>
           <Form.Control
             type="text"
             placeholder="Enter Team Member Role"
@@ -83,7 +84,7 @@ function MemberForm({ obj }) {
           />
         </Form.Group>
         <Button variant="primary" type="submit">
-          {obj.firebaseKey ? 'Update Member' : 'Submit Team Member'}
+          {obj.firebaseKey ? 'Update Member' : 'Add Team Member'}
         </Button>
       </Form>
     </>
