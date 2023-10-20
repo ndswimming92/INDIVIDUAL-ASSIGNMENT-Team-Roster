@@ -17,6 +17,15 @@ a {
   box-sizing: border-box;
 }
 
+h1 {
+  color: rgba(7, 10, 212, 0.836);
+}
+
+Label {
+  color: rgb(1, 2, 0);
+}
+
 body {
-  background-color: #88effd;
+  background-image: url('../assets/images/swimlanes.jpg');
+  background-size: cover;
 }
